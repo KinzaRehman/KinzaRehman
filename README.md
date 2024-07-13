@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KinzaRehman
-- 👀 I am a dedicated data scientist deeply passionate about harnessing the power of machine learning and artificial intelligence to better user expereince. My expertise lies in cleaning redundencies, analytical thought process, statistical analysis, data visualization and porblem solving. My goal is to create impactful solutions that combine technology with creativity, to push boundaries of what is possible with in the realm of ML/AI applications.
+- 👀 I am a data enthusiast with over 3 years of experience. I love using data to create solutions for reiterative problems. With time and practice theres nothing you can't learn! 
   
-- 🌱 I’m currently learning how to monetize and import data from different sources.
+- 🌱 I’m currently learning SQL, Python use cases in machine learning and artifical intelligence. 
 - 💞️ I'm working towards getting my masters in computer engineering and data statistics. 
 - 📫 You can reach me at kinzar689@gmail, or my linked in www.linkedin.com/in/kinza-rehman-378aa921a :) 
 
