@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310">
+<defs><pattern id="dots" width="13" height="13" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#d9cdbd" opacity=".65"/></pattern></defs>
+<rect width="1200" height="310" fill="#fcf6ed"/><rect width="1200" height="310" fill="url(#dots)"/>
+<rect x="832" y="52" width="303" height="209" fill="#edb9c8"/><rect x="822" y="42" width="303" height="209" fill="#57364d"/>
+<rect x="922" y="30" width="75" height="19" fill="#e9d5a5" transform="rotate(-5 960 40)"/>
+<text x="78" y="72" fill="#b75178" font-family="Arial,sans-serif" font-size="17" font-weight="bold" letter-spacing="3">SOFTWARE ENGINEERING  ·  DATA  ·  AI</text>
+<text x="76" y="148" fill="#33232f" font-family="Arial,sans-serif" font-size="65" font-weight="bold">Hi, I'm Kinza Rehman</text>
+<rect x="77" y="160" width="380" height="7" fill="#edb9c8"/>
+<text x="78" y="212" fill="#6c5c65" font-family="Arial,sans-serif" font-size="25">Building thoughtful technology</text>
+<text x="78" y="246" fill="#6c5c65" font-family="Arial,sans-serif" font-size="25">for real people.  ✦</text>
+<text x="850" y="102" fill="#f9eff0" font-family="Arial,sans-serif" font-size="18" font-weight="bold" letter-spacing="2">CURRENTLY</text>
+<text x="850" y="146" fill="#fff8f1" font-family="Arial,sans-serif" font-size="27" font-weight="bold">Learning. Building.</text>
+<text x="850" y="183" fill="#fff8f1" font-family="Arial,sans-serif" font-size="27" font-weight="bold">Growing.</text>
+<text x="850" y="219" fill="#f0b7cb" font-family="Arial,sans-serif" font-size="21">✦  full-stack + AI</text>
+<g fill="#cbd5b1"><circle cx="42" cy="57" r="11"/><circle cx="54" cy="48" r="11"/><circle cx="66" cy="57" r="11"/><circle cx="60" cy="72" r="11"/><circle cx="46" cy="72" r="11"/></g><circle cx="54" cy="61" r="7" fill="#fff4d7"/>
+<text x="730" y="89" fill="#e5b96d" font-size="30">✦</text><text x="725" y="235" fill="#b75178" font-size="27">✧</text>
+</svg>

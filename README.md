@@ -1,52 +1,58 @@
-## Hi, I’m Kinza Rehman 👋
+<div align="center">
 
-I’m a data professional with more than three years of experience, now transitioning into software engineering and AI engineering. I enjoy using technology and data to build practical, accessible solutions that solve real problems for everyday people.
+![Kinza Rehman — Software Engineering, Data and AI](banner.svg)
 
-💻 I’m currently a **Software Engineering Fellow at Resilient Coders**, building full-stack applications and strengthening my software development skills.
+### ✿ Softwate Engineer · Data · AI ✿
 
-🌐 I also run a **freelance web development business**, creating custom websites and digital solutions for businesses.
+*Building thoughtful technology for real people.*
 
-📊 My background in data analytics helps me approach software development with strong problem-solving, analytical, and user-centered thinking.
+[![Portfolio](https://img.shields.io/badge/Portfolio-f2c2d0?style=for-the-badge&logo=googlechrome&logoColor=57364d)](https://KinzaRehman.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-d2ddbb?style=for-the-badge&logo=linkedin&logoColor=57364d)](https://www.linkedin.com/in/kinzarehman)
+[![Email](https://img.shields.io/badge/Say_Hello-ead5a5?style=for-the-badge&logo=gmail&logoColor=57364d)](mailto:KinzaRehman38@gmail.com)
 
-### 🛠️ Tech Stack & Tools
+</div>
 
-**Frontend Development**
+### ✿ A little about me
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+I'm a data professional with **3+ years of experience**, now transitioning into **software engineering and AI engineering**. I love creating practical, accessible solutions that make everyday life a little easier.
 
-**Backend Development & Databases**
+- 💻 **Software Engineering Fellow at Resilient Coders** — building full-stack applications and growing as an engineer.
+- 🌷 **Freelance Web Developer** — creating custom websites and digital solutions for businesses.
+- 📊 **Data Analytics Background** — bringing analytical problem-solving and a user-centered perspective to everything I build.
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+### ✿ My tech stack
 
-**Data Analytics & Programming**
+**Frontend**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-f2c2d0?style=flat-square&logo=html5&logoColor=57364d)
+![CSS3](https://img.shields.io/badge/CSS3-f2c2d0?style=flat-square&logo=css&logoColor=57364d)
+![JavaScript](https://img.shields.io/badge/JavaScript-f2c2d0?style=flat-square&logo=javascript&logoColor=57364d)
 
-**Developer Tools & Deployment**
+**Backend & databases**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-d2ddbb?style=flat-square&logo=nodedotjs&logoColor=57364d)
+![Express.js](https://img.shields.io/badge/Express.js-d2ddbb?style=flat-square&logo=express&logoColor=57364d)
+![MongoDB](https://img.shields.io/badge/MongoDB-d2ddbb?style=flat-square&logo=mongodb&logoColor=57364d)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-d2ddbb?style=flat-square&logo=postgresql&logoColor=57364d)
 
-### Let’s Connect
+**Data & analytics**
 
-- 🌐 [Portfolio](https://KinzaRehman.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/kinzarehman)
-- 𝕏 [X](https://x.com/kinzarehmalxqu)
-- 🦋 [Bluesky](https://bsky.app/profile/ki-nza.bsky.social)
-- 📧 [Email](mailto:KinzaRehman38@gmail.com)
+![Python](https://img.shields.io/badge/Python-ead5a5?style=flat-square&logo=python&logoColor=57364d)
+![SQL](https://img.shields.io/badge/SQL-ead5a5?style=flat-square&logo=postgresql&logoColor=57364d)
+![R](https://img.shields.io/badge/R-ead5a5?style=flat-square&logo=r&logoColor=57364d)
+![Power BI](https://img.shields.io/badge/Power_BI-ead5a5?style=flat-square&logo=powerbi&logoColor=57364d)
+![Tableau](https://img.shields.io/badge/Tableau-ead5a5?style=flat-square&logo=tableau&logoColor=57364d)
 
-<!---
-KinzaRehman/KinzaRehman is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
---->
+**Developer tools & deployment**
+
+![Git](https://img.shields.io/badge/Git-e8c8d8?style=flat-square&logo=git&logoColor=57364d)
+![GitHub](https://img.shields.io/badge/GitHub-e8c8d8?style=flat-square&logo=github&logoColor=57364d)
+![VS Code](https://img.shields.io/badge/VS_Code-e8c8d8?style=flat-square&logo=visualstudiocode&logoColor=57364d)
+![Vercel](https://img.shields.io/badge/Vercel-e8c8d8?style=flat-square&logo=vercel&logoColor=57364d)
+![Netlify](https://img.shields.io/badge/Netlify-e8c8d8?style=flat-square&logo=netlify&logoColor=57364d)
+
+### ✿ Let's connect
+
+I'm always happy to connect about software engineering, AI, creative projects, and opportunities to collaborate. ♡
+
+🌐 [Portfolio](https://KinzaRehman.com) · 💼 [LinkedIn](https://www.linkedin.com/in/kinzarehman) · 𝕏 [X](https://x.com/kinzarehmalxqu) · 🦋 [Bluesky](https://bsky.app/profile/ki-nza.bsky.social) · ✉️ [Email](mailto:KinzaRehman38@gmail.com)
