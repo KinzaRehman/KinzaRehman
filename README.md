@@ -2,9 +2,6 @@
 
 <!--[Kinza Rehman — Software Engineering, Data and AI](banner.svg) -->
 ## ✿ Hi, I'm Kinza Rehman ✿
-
-### ✿ Softwate Engineer · Data · AI ✿
-
 *Building thoughtful technology for real people.*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-f2c2d0?style=for-the-badge&logo=googlechrome&logoColor=57364d)](https://kinzarehman.vercel.app/)
