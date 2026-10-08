@@ -1,12 +1,13 @@
 <div align="center">
 
-![Kinza Rehman — Software Engineering, Data and AI](banner.svg)
+<!--[Kinza Rehman — Software Engineering, Data and AI](banner.svg) -->
+## ✿ Hi, I'm Kinza Rehman ✿
 
 ### ✿ Softwate Engineer · Data · AI ✿
 
 *Building thoughtful technology for real people.*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-f2c2d0?style=for-the-badge&logo=googlechrome&logoColor=57364d)](https://KinzaRehman.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-f2c2d0?style=for-the-badge&logo=googlechrome&logoColor=57364d)](https://kinzarehman.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-d2ddbb?style=for-the-badge&logo=linkedin&logoColor=57364d)](https://www.linkedin.com/in/kinzarehman)
 [![Email](https://img.shields.io/badge/Say_Hello-ead5a5?style=for-the-badge&logo=gmail&logoColor=57364d)](mailto:KinzaRehman38@gmail.com)
 
@@ -55,4 +56,4 @@ I'm a data professional with **3+ years of experience**, now transitioning into 
 
 I'm always happy to connect about software engineering, AI, creative projects, and opportunities to collaborate. ♡
 
-🌐 [Portfolio](https://KinzaRehman.com) · 💼 [LinkedIn](https://www.linkedin.com/in/kinzarehman) · 𝕏 [X](https://x.com/kinzarehmalxqu) · 🦋 [Bluesky](https://bsky.app/profile/ki-nza.bsky.social) · ✉️ [Email](mailto:KinzaRehman38@gmail.com)
+🌐 [Portfolio](https://kinzarehman.vercel.app/) · 💼 [LinkedIn](https://www.linkedin.com/in/kinzarehman) · 𝕏 [X](https://x.com/kinzarehmalxqu) · 🦋 [Bluesky](https://bsky.app/profile/ki-nza.bsky.social) · ✉️ [Email](mailto:KinzaRehman38@gmail.com)
