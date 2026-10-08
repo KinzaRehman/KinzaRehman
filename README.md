@@ -39,7 +39,7 @@ I’m a data professional with more than three years of experience, now transiti
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
-### 🤝 Let’s Connect
+### Let’s Connect
 
 - 🌐 [Portfolio](https://KinzaRehman.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/kinzarehman)
