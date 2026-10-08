@@ -16,11 +16,9 @@ I'm a data professional with **3+ years of experience**, now transitioning into 
 - **Software Engineer at Resilient Coders** — building full-stack applications. 
 -  **Freelance Web Developer** — creating custom websites and digital solutions for businesses.
 - **Data Analytics Background** — bringing analytical problem-solving and a user-centered perspective to everything I build.
-
 <div align="center">
 
 ## ✿ My Tech Stack ✿
-
 <table>
   <tr>
     <th>Frontend</th>
