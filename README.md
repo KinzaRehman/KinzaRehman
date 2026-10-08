@@ -60,4 +60,5 @@ I'm a data professional with **3+ years of experience**, now transitioning into 
 ### ✿ Let's connect
 
 I'm always happy to connect about software engineering, AI, creative projects, and opportunities to collaborate. ♡
+
  [🌐 Portfolio](https://kinzarehman.vercel.app/) · [ 💼 LinkedIn](https://www.linkedin.com/in/kinzarehman) ·  [𝕏](https://x.com/kinzarehmalxqu) · [Bluesky](https://bsky.app/profile/ki-nza.bsky.social) · [✉️ Email](mailto:KinzaRehman38@gmail.com)
