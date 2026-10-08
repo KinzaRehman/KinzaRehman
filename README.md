@@ -13,7 +13,6 @@
 ### ✿ A little about me
 
 I'm a data professional with **3+ years of experience**, now transitioning into **software engineering and AI engineering**. I love creating practical, accessible solutions that make everyday life a little easier.
-
 - **Software Engineer at Resilient Coders** — building full-stack applications. 
 -  **Freelance Web Developer** — creating custom websites and digital solutions for businesses.
 - **Data Analytics Background** — bringing analytical problem-solving and a user-centered perspective to everything I build.
@@ -61,7 +60,5 @@ I'm a data professional with **3+ years of experience**, now transitioning into 
 </div>
 
 ### ✿ Let's connect
-
 I'm always happy to connect about software engineering, AI, creative projects, and opportunities to collaborate. ♡
-
  [🌐 Portfolio](https://kinzarehman.vercel.app/) · [ 💼 LinkedIn](https://www.linkedin.com/in/kinzarehman) ·  [𝕏](https://x.com/kinzarehmalxqu) · [Bluesky](https://bsky.app/profile/ki-nza.bsky.social) · [✉️ Email](mailto:KinzaRehman38@gmail.com)
