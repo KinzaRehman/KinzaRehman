@@ -1,6 +1,7 @@
 <div align="center">
 
-<!--[Kinza Rehman — Software Engineering, Data and AI](banner.svg) -->
+<!--![Kinza Rehman — Software Engineering, Data and AI](banner.svg) -->
+
 ## ✿ Hi, I'm Kinza Rehman ✿
 *Building thoughtful technology for real people.*
 
@@ -63,3 +64,5 @@ I'm a ** Software Engineer** with a background in **data analytics and 3+ years 
 I'm always happy to connect about software engineering, AI, creative projects, and opportunities to collaborate. ♡
 
  [🌐 Portfolio](https://kinzarehman.vercel.app/) · [ 💼 LinkedIn](https://www.linkedin.com/in/kinzarehman) ·  [𝕏](https://x.com/kinzarehmalxqu) · [Bluesky](https://bsky.app/profile/ki-nza.bsky.social) · [✉️ Email](mailto:KinzaRehman38@gmail.com)
+
+
