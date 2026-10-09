@@ -14,9 +14,9 @@
 
 I'm a ** Software Engineer** with a background in **data analytics and 3+ years of experience** solving complex problems through technology. I enjoy building practical, accessible, and user centered applications that make everyday life a little easier.
 
-- **Software Engineer at Resilient Coders** — designing and building full-stack applications using modern frontend and backend technologies.
-- **Freelance Web Developer** — creating custom websites and digital solutions tailored to businesses and their users.
-- **Data & Analytics Expertise** — bringing a strong foundation in data analysis, automation, and analytical problem-solving to software and AI engineering.
+- **Software Engineer at Resilient Coders**: designing and building full-stack applications using modern frontend and backend technologies.
+- **Freelance Web Developer**: creating custom websites and digital solutions tailored to businesses and their users.
+- **Data & Analytics Expertise**: bringing a strong foundation in data analysis, automation, and analytical problem-solving to software and AI engineering.
 <div align="center">
 
 ## ✿ My Tech Stack ✿
